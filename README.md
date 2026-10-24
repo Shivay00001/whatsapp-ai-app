@@ -100,3 +100,7 @@ curl -s localhost:8765/api/chat -H 'Content-Type: application/json' \
 ```
 
 Every advertised feature runs — no stubs, no placeholders.
+
+## Deploying WhatsApp AI for business
+
+If you're taking this from prototype to paying customers, [VisionQuantech's AI automation services](https://visionquantech.com/ai-automation-services.html) build production WhatsApp agents — see the [UAE guide](https://visionquantech.com/ai-automation-uae.html) on WhatsApp-first automation for Gulf businesses.
